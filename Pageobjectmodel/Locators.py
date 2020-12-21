@@ -1,0 +1,5 @@
+link="xpath://*[@id='nav-link-accountList']"
+txt_no="name:email"
+txt_pwd="name:password"
+btn_continue="xpath://*[@id='continue']"
+btn_signin="xpath://*[@id='signInSubmit']"
